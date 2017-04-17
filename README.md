@@ -1,3 +1,8 @@
-# ruby_game
+# The 2D Gosu games by ruby
 
-test ruby game
+- Examples
+- Galaxian
+- Mario
+- Typespeed
+- Racing
+- Zombies
